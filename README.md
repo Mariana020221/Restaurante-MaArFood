@@ -1,2 +1,2 @@
 # Restaurante-MaArFood
-Sistema para un restaurante de comida de mariscos
+Sistema de reservaciones para un restaurante de comida de mariscos
